@@ -1,3 +1,4 @@
+// Gabe Mersy
 #include <iostream>
 #include <cmath>
 
